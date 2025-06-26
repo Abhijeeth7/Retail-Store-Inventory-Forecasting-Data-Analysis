@@ -1,8 +1,11 @@
 📄 Retail Store Inventory Forecasting – Requirements Document
+
 🧠 Project Name
+
 Retail Store Inventory Forecasting and Sales Analysis
 
 🎯 Objective
+
 To analyze and forecast retail store sales performance from 2022 to 2024 across various dimensions—such as time, geography, product categories, promotions, inventory turnover, and external factors like weather—using Python and its analytical libraries. The goal is to uncover patterns, identify growth opportunities, and enable data-driven decision-making for the business.
 
 📊 Business Requirements (BRs)
